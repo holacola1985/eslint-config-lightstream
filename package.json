@@ -1,0 +1,24 @@
+{
+  "name": "eslint-config-lightstream",
+  "version": "1.0.0",
+  "description": "Lightstream eslint config file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lightstream-company/eslint-config-lightstream.git"
+  },
+  "keywords": [
+    "lightstream",
+    "eslint",
+    "config"
+  ],
+  "author": "Lightstream Company",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lightstream-company/eslint-config-lightstream/issues"
+  },
+  "homepage": "https://github.com/lightstream-company/eslint-config-lightstream#readme"
+}
