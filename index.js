@@ -41,7 +41,7 @@ module.exports = {
     "react/no-set-state": 0,
     "react/no-unknown-property": 1,
     "react/prop-types": 1,
-    "react/react-in-jsx-scope": 1,
+    "react/react-in-jsx-scope": 0,
     "react/require-extension": 0,
     "react/self-closing-comp": 1,
     "react/sort-comp": 1,
