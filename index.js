@@ -20,9 +20,6 @@ module.exports = {
     "semi": 1,
     "quotes": [2, "single"],
     "jsx-quotes": 1,
-    "react/display-name": [1, {
-      "acceptTranspilerName": true
-    }],
     "react/jsx-boolean-value": 1,
     "react/jsx-closing-bracket-location": 1,
     "react/jsx-curly-spacing": 1,
