@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-lightstream",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "Lightstream eslint config file",
   "main": "index.js",
   "scripts": {
