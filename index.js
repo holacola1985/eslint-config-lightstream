@@ -15,12 +15,11 @@ module.exports = {
     "react"
   ],
   "rules": {
-    "strict": 0,
     "comma-dangle": 1,
-    "no-console": 0,
-    "semi": 1,
-    "quotes": [2, "single"],
     "jsx-quotes": 1,
+    "no-console": 0,
+    "no-trailing-spaces": 1,
+    "quotes": [2, "single"],
     "react/jsx-boolean-value": 1,
     "react/jsx-closing-bracket-location": 1,
     "react/jsx-curly-spacing": 1,
@@ -43,6 +42,8 @@ module.exports = {
     "react/require-extension": 0,
     "react/self-closing-comp": 1,
     "react/sort-comp": 1,
-    "react/wrap-multilines": 0
+    "react/wrap-multilines": 0,
+    "semi": 1,
+    "strict": 0
   }
 };
